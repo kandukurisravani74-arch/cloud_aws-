@@ -15,6 +15,7 @@ Clear concepts like:
 - Deploy full stack web app
 - Etc
 - ssl/tls working
+  
 Overview:
 - Virtualization
 - Cloud computing 
