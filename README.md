@@ -1,7 +1,8 @@
 # cloud_aws-
 This repo is complete step by step process to learn cloud from zero to Hero level
+
 Cloud Aws-Services:
-Clear concepts like:
+Befor make sure to Clear concepts like:
 - Website deployment
 - Dns,custom Domain
 - Scalling
